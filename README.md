@@ -11,12 +11,7 @@ Welcome to the Fanta Product Landing Page project! This single-page application 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
-- [Project Structure](#project-structure)
-- [Animation Details](#animation-details)
-- [Firebase Hosting](#firebase-hosting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
@@ -50,5 +45,5 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/fanta-landing-page.git
+   git clone https://github.com/safkat07/FantaProductLandingpage.git
    cd fanta-landing-page
