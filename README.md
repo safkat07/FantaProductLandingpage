@@ -26,7 +26,7 @@ Welcome to the Fanta Product Landing Page project! This single-page application 
 
 ## Demo
 
-Check out the live demo of the project [here](https://your-firebase-app-url.web.app).
+Check out the live demo of the project [here](https://fantalandingpage.web.app/).
 
 ## Technologies Used
 
